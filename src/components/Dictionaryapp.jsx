@@ -55,6 +55,7 @@ const Definition = styled.p`
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
   text-align: center;
+  color: wheat;
 `;
 
 function Dictionary() {
